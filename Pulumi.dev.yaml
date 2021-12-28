@@ -1,0 +1,3 @@
+config:
+  gcp:project: project
+  gcp:region: europe-west2
